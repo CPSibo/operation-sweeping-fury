@@ -1,0 +1,2 @@
+enableRadio false;
+enableSentences false;

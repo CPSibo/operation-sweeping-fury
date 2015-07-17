@@ -1,0 +1,41 @@
+
+//**************************************************//
+// 					  Params
+//**************************************************//
+
+	class Params
+	{
+		// Include the params defined by the framework.
+		#include "Scripts\ASF\non-gameplay\scaffolding\MissionParams.hpp"
+		
+		// Define any custom params below...
+	};
+
+
+
+
+
+//**************************************************//
+// 					CfgFunctions
+//**************************************************//
+
+	class CfgFunctions
+	{
+		// Include the functions defined by the framework.
+		#include "Scripts\ASF\non-gameplay\scaffolding\CfgFunctions.hpp"
+		
+		// Include Virtual Ammobox System.
+		#include "Scripts\VAS\cfgfunctions.hpp"
+		
+		// Define any custom functions below...
+	};
+	
+
+	
+	
+	
+// Include ASF Description segments
+#include "Scripts\ASF\non-gameplay\scaffolding\description_segments\Description.hpp"
+
+// Include Virtual Ammobox System.
+#include "Scripts\VAS\menu.hpp"

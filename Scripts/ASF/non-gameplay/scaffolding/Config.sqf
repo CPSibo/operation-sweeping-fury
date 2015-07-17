@@ -1,0 +1,2 @@
+
+ASF_InitComplete = false;
