@@ -11,6 +11,8 @@
 
 #include "Briefing.hpp"
 
+#include "Debriefing.hpp"
+
 #include "Equipment.hpp"
 
 #include "Sounds.hpp"
